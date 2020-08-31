@@ -1,8 +1,8 @@
 # oneshell
 Shell framework example for shell project, include:
-- Command options
-- Pretty logs
-- Properties configurations
+- Command options, eg. -t|--target {value}
+- Pretty logs, print time and the script name, friendly for shell script trouble shooting
+- Properties configurations, export variables in properties file to env, support comment by #
 - Module and script structure
 
 ## Usage example
